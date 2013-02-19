@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication2", "MvcApplication2\MvcApplication2.csproj", "{B482A33A-303E-40F0-A25A-5F8F442E19C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-test", "dotnet-test\dotnet-test.csproj", "{DA05165B-D6AF-4960-8635-1DEC2C6596F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B482A33A-303E-40F0-A25A-5F8F442E19C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B482A33A-303E-40F0-A25A-5F8F442E19C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B482A33A-303E-40F0-A25A-5F8F442E19C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B482A33A-303E-40F0-A25A-5F8F442E19C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA05165B-D6AF-4960-8635-1DEC2C6596F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA05165B-D6AF-4960-8635-1DEC2C6596F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA05165B-D6AF-4960-8635-1DEC2C6596F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA05165B-D6AF-4960-8635-1DEC2C6596F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
